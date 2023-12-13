@@ -105,3 +105,10 @@ The project leverages the following Azure services:
 ](https://github.com/rchfv/project-frt-team-4-chennai-tour/assets/115637636/93eb8a51-6d79-448a-9d93-5fecf556f36d)
 ![a11](https://github.com/rchfv/project-frt-team-4-chennai-tour/assets/115637636/772db166-fb4c-41f6-9566-db0101457df3)
 ![a12](https://github.com/rchfv/project-frt-team-4-chennai-tour/assets/115637636/943f84e3-68d9-42c2-bbd5-d6ddb59a7c1f)
+
+
+
+
+##  demo video
+    
+##  Demo URL https://chennaitour.azurewebsites.net/
