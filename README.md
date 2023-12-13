@@ -13,7 +13,7 @@ Chennai Tour is more than just a reservation platform.Our goal is to provide a s
 7. [Usage](#usage)
 8. [Azure Services](#azure-services)
 9. [Screeen Shorts](#Screeen-Shorts)
-10. [Demo Video URL](#demo-video-url)
+10. [demo video](#demo-video)
 11. [Demo URL](#demo-url)
 
 
